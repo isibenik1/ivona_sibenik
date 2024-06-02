@@ -1,0 +1,96 @@
+
+p {
+	color: white;
+	text-align: center;
+	margin-top: 0;
+	font-family:"Arial", sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	padding: 40px;
+	
+	}
+blockquote {
+	color: white;
+	text-align: center;
+	margin-top: 0;
+	font-family:"Arial", sans-serif;
+	font-size: 15px;
+	line-height: 16px;
+	width: 500px; 
+	padding: 40px;
+    }
+h1 {
+	text-align: center;	
+	color: white;
+	font-family:"Arial", sans-serif; 
+	font-size: 40px; 
+	line-height: 18px;
+	width: 600px;
+	padding: 40px;
+    }
+h2 {
+	text-align: center;
+	color: white;
+	font-family:"Arial", sans-serif; 
+	font-size: 40px; 
+	line-height: 18px;
+	width: 600px;
+	padding: 40px;
+    }
+h3 {
+	color: white;
+	text-align: center;
+	margin-top: 30;
+	font-family:"Arial", sans-serif; 
+	font-size: 25px; 
+	line-height: 18px;
+	width: 600px;
+	padding: 40px; 
+}
+	
+ol, ul {
+	color: white;
+	margin-top:-30px;
+	font-family:"Arial", sans-serif;
+	font-size: 20px;
+	line-height:50px;
+	width: 620px;
+	background-color: #647D39;
+	padding: 40px;
+    }
+	
+a  {        
+    display: block;
+    color: black;
+	background-color: #ccff99;
+	padding:5px;
+	text-align: center;
+	font-family:"Arial", sans-serif;
+	line-height: 50px;
+	width: 687px;
+	border: 2px solid #000000;
+	}
+
+
+a:hover{
+	background-color: darkgray;
+    }	
+
+body{
+	background-image: url("slike/pozadina.jpg");
+}
+img{
+	height: 400px;
+}
+.container {
+	        width: 700px;
+            height: 100px;
+            margin: 20px auto;                   
+            background: linear-gradient(to bottom, #647d39 40%, #006666 100%);     
+          
+}
+
+div {
+    background: linear-gradient(to bottom, #647d39 40%, #006666 100%);
+}
